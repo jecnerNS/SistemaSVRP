@@ -1,0 +1,17 @@
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.IU.FormClientes.resources
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.IU.FormLibros.resources
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.IU.FormPrincipal.resources
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.csproj.CoreCompileInputs.cache
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.IU.FormClientes.resources
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.IU.FormLibros.resources
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.IU.FormPrincipal.resources
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.csproj.GenerateResource.cache
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.AssemblyInfoInputs.cache
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.AssemblyInfo.cs
+C:\Users\jecne\Desktop\Sistema 1\Proyecto de Verduras - Web\App_Registros\obj\Debug\net6.0-windows\App_Registros.csproj.CoreCompileInputs.cache

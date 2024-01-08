@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BddrAkuLhqx6uogRWAeQ5jRAoVRoD8U3W4SlXSBQ7r9u3tzTIoF5Aj158gLI8LJhBTjNjfTmODIVcxRJcb2Mcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jecne\\Desktop\\Sistema 1\\Proyecto de Verduras - Web\\App_Registros\\App_Registros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jecne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jecne\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jecne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jecne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

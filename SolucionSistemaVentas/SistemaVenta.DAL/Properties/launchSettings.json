@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SistemaVenta.DAL": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55868;http://localhost:55870"
+    }
+  }
+}
